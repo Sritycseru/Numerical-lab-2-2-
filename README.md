@@ -1,1 +1,2 @@
-# Numerical-lab-2-2-
+#INFO.....
+**All solutions of the problems of the course Numerical Method(MATH2232) are enclosed here.**
